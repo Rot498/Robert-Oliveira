@@ -25,9 +25,9 @@
 ---
 
 ### 🧩 Projetos em Destaque
-- 🪵 [BN Marcenaria](https://seu-link-do-projeto.com) — Site institucional com API de contato.
-- 🧱 [STOPEÇAS](https://seu-link-do-projeto.com) — Sistema de controle de peças e pedidos.
-- 🎮 [Códigos do Tempo](https://seu-link-do-projeto.com) — Jogo educativo em Java com desafios de lógica.
+- 🪵 [BN Marcenaria](https://github.com/Rot498/BNmarcenaria) — Site institucional com API de contato.
+- 🧱 [STOPEÇAS](https://github.com/Rot498/ProjetoWeb) — Sistema de controle de peças e pedidos.
+- 🎮 [Códigos do Tempo](https://github.com/Rot498/Grupo_6_Turma_A) — Jogo educativo em Java com desafios de lógica.
 
 ---
 
