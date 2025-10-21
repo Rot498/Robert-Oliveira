@@ -23,6 +23,7 @@
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rot498&show_icons=true&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Rot498&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rot498&theme=radical)
 
 ---
 
