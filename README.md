@@ -19,8 +19,9 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-![Robert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobertOliveira&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertOliveira&layout=compact&theme=tokyonight)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rot498&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Rot498&layout=compact&theme=radical)
 
 ---
 
